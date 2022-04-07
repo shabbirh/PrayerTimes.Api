@@ -1,3 +1,3 @@
 PrayerTimes.Api
 
-Example available at https://ptapi.mubahela.net/swagger
+Example available at https://api.namaaz.net/swagger
